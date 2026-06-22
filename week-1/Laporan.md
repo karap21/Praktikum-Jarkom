@@ -1,4 +1,4 @@
-Pertama kita mengunjungi link disediakan dibawah ini, bertujuan unutuk memantau aktifitas jaringan ketika membuka link http dibawah 
+Pertama kita mengunjungi link disediakan dibawah ini, bertujuan unutuk memantau aktifitas jaringan ketika membuka link http dibawah.
 ![Screenshot Jarkom](Gambar/Screenshot%202026-06-22%20180720.png)
 
 Setelah dibuka, link http berisi halaman seperti yang dapat dilihat dibawah. 
