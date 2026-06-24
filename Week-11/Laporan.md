@@ -20,10 +20,14 @@
 ### 11.2 Langkah Praktikum yang Dilakukan
 1. Membuka Command Prompt (CMD).
 2. Menjalankan perintah `ipconfig /release` untuk melepaskan IP address saat ini.
-   > **Bukti:** Lihat Gambar 1
+
+   ![](Gambar/1.png)
+
 3. Memulai proses *capture* pada Wireshark dengan memilih interface Wi-Fi.
 4. Menjalankan perintah `ipconfig /renew` pada Command Prompt untuk meminta alokasi IP baru dari DHCP Server.
-   > **Bukti:** Lihat Gambar 2
+
+![](Gambar/2.png)
+
 5. Menghentikan *capture* Wireshark setelah IP baru muncul di CMD.
 6. Memfilter paket jaringan menggunakan *display filter* `bootp`.
 
