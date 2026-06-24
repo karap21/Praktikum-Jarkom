@@ -42,19 +42,19 @@ modul09/
 
 ### Screenshot untuk Laporan
 - **1. Kode HTML HelloWorld**  
-  `![](Gambar/1.png)`  
+  ![](Gambar/1.png)`  
   *Ambil setelah membuka HelloWorld.html di editor (menunjukkan identitas: Nama, NIM, Kelas).*
 
 - **2. Tampilan Halaman di Browser (200 OK)**  
-  `![](Gambar/2.png)`  
+  ![](Gambar/2.png)`  
   *Ambil saat browser menampilkan halaman HelloWorld.html sukses.*
 
 - **3. Terminal Server Menjalankan dan Log Request**  
-  `![](Gambar/3.png)`  
+  ![](Gambar/3.png)`  
   *Ambil saat server menampilkan `Server ready on port 6789...` dan log `Request line` serta `200 OK`.*
 
 - **4. Browser Menampilkan 404 Not Found**  
-  `![](Gambar/4.png)`  
+  ![](Gambar/4.png)`  
   *Ambil saat mengakses file yang tidak ada untuk menunjukkan response 404.*
 
 ### Hasil Singkat
