@@ -40,16 +40,16 @@ tracert gaia.cs.umass.edu
 
 ### Hasil (sertakan screenshot)
 - **Overview traceroute (daftar hop).**  
-  `![](Gambar/1.png)`
+  ![](Gambar/1.png)`
 
 - **Detail ICMP Echo Request (contoh: TTL, Total Length, Identification).**  
-  `![](Gambar/2.png)`
+  ![](Gambar/2.png)`
 
 - **Detail ICMP Time-to-live exceeded (Type 11) dari router intermediate.**  
-  `![](Gambar/3.png)`
+  ![](Gambar/3.png)`
 
 - **Contoh ICMP Destination Unreachable (Type 3, Code 3) atau hasil DNS/MDNS terkait.**  
-  `![](Gambar/4.png)`
+  ![](Gambar/4.png)`
 
 ---
 
