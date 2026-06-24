@@ -6,8 +6,8 @@
 | Item | Keterangan |
 | :--- | :--- |
 | **Nama** | Haniel Juanta Sembiring |
-| **NIM** | [Isi NIM Anda] |
-| **Kelas** | [Isi Kelas Anda] |
+| **NIM** | 103072400145 |
+| **Kelas** | IF-04-01 |
 
 ---
 

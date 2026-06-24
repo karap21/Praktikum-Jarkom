@@ -14,7 +14,7 @@ Membuat web server sederhana menggunakan Python socket, memahami format HTTP req
 ```
 modul09/
 ├── WebServer.py
-├── HelloWorld.html        # atau assets/HelloWorld.html
+├── HelloWorld.html        
 ├── Readme.md
 └── Gambar/
     ├── 1.png
